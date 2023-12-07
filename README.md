@@ -1,5 +1,5 @@
 # Data-Science-Credit-Risk-Project
-Certainly! A Data Science Credit Risk Project in the context of an internship at IDX/Partner involves applying data science techniques and methodologies to assess and mitigate credit risk within the financial domain. The project aims to leverage data analytics and statistical modeling to make informed decisions about the creditworthiness of individuals or entities.
+A Data Science Credit Risk Project in the context of an internship at IDX/Partner involves applying data science techniques and methodologies to assess and mitigate credit risk within the financial domain. The project aims to leverage data analytics and statistical modeling to make informed decisions about the creditworthiness of individuals or entities.
 
 Key components of the project may include:
 
