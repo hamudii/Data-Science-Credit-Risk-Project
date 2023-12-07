@@ -28,3 +28,6 @@ Key components of the project may include:
    Documenting the entire process, including data sources, methodology, and model performance. Generating regular reports for stakeholders to communicate findings and recommendations.
 
 Throughout the internship, the participant would gain hands-on experience in utilizing data science tools and techniques to address real-world challenges in the financial industry, specifically related to credit risk management. The project contributes not only to the academic and technical growth of the intern but also to the enhancement of risk assessment practices within the organization.
+
+
+Data link : https://drive.google.com/file/d/12BR03Udivf5kzOXwIYZbFwlyHNyroV2I/view?usp=sharing
